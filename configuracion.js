@@ -22,12 +22,12 @@ import uploadImage from "./lib/uploadImage.js";
 //Añade los números que deseas que sean Owners
 global.owner = [
 
- ["584166718372", "ɴɪɢʜᴛᴄᴏʀᴇ-ʙᴏᴛ ᴄʀᴇᴀᴅᴏʀ", true]]
+ ["51907913096", "ɴɪɢʜᴛᴄᴏʀᴇ-ʙᴏᴛ ᴄʀᴇᴀᴅᴏʀ", true]]
 
 
- global.suittag = ["593959425714"];
- global.mods = ["584166718372"];
- global.prems = ["595986674310"];
+ global.suittag = ["51907913096"];
+ global.mods = ["51907913096"];
+ global.prems = ["51907913096"];
 
 const opts = new Object(yargs(process.argv.slice(2)).exitProcess(false).parse());
 global.prefix = new RegExp(
@@ -90,7 +90,7 @@ global.wait = "*[❕] CARGANDO POR FAVOR ESPERA...*";
 global.md = "https://chat.whatsapp.com/B4wRsrXs1MsKLqtLctdTkf";
 global.dorramd = md;
 global.tarje = "Banesco";
-global.yt = "http://youtube.com/@jesus_ofc33";
+global.yt = "http://youtube.com/@emersonventas";
 global.youtube = yt;
 //Menu
 global.DorrafotoMenu = ["./galería/dorratmini.mp4"];
