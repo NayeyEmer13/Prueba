@@ -322,19 +322,19 @@ await conn.sendMessage(m.chat, {
   "containsAutoReply": true,  
   "mediaType": 1,   
   "thumbnail": fotogodzx,  
-  "mediaUrl": `https://chat.whatsapp.com/Lsp9SOopYWzClXRqm31Wjj`,  
-  "sourceUrl": `https://chat.whatsapp.com/Lsp9SOopYWzClXRqm31Wjj`  
+  "mediaUrl": `https://chat.whatsapp.com/FZ5NqcnUDsN6ZA8kBFnewH`,  
+  "sourceUrl": `https://chat.whatsapp.com/FZ5NqcnUDsN6ZA8kBFnewH`  
   }  
   }  
   }, { quoted: m })
 }  
 if (command == "menucompleto" || command == "allmenu") {
-await m.reply(`◈⏤͟͟͞͞Loading...⏤͟͟͞͞◈`);                 
+await m.reply(`*Enviando el menu completo...*`);                 
 var completomenu = `
 ╭───❮ *⛩️Nightcore - Bot - MD⛩️* ❯───◈
 ║╮
 ║├✧••➤ ᴏᴡɴᴇʀ ᴏғɪᴄɪᴀʟ : ᴊᴇsᴜs ᴏғᴄ🍁
-║├➣ ɴᴜ́ᴍᴇʀᴏ : _+58 4166718372 ❄_
+║├➣ ɴᴜ́ᴍᴇʀᴏ : _+52 221 200 9202_
 ║╯
 ╰───────────────────────────◈
   
