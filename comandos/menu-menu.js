@@ -617,7 +617,7 @@ var completomenu = `
  `.trim();
  await  conn.sendMessage(m.chat,{ image:{ url:"https://telegra.ph/file/b8acfe3c320b12bfb3d7b.jpg", }, caption: completomenu, 
 contextInfo: { mentionedJid: [m.sender], externalAdReply: { title: `MENU - COMPLETO`, 
-sourceUrl: "http://wa.me/584166718372", mediaType: 1, showAdAttribution: true, thumbnailUrl: "https://telegra.ph/file/b8acfe3c320b12bfb3d7b.jpg", 
+sourceUrl: "http://wa.me/522212009202", mediaType: 1, showAdAttribution: true, thumbnailUrl: "https://telegra.ph/file/b8acfe3c320b12bfb3d7b.jpg", 
 }, }, }, { quoted: m,});}};
          
   shadow.command = [
