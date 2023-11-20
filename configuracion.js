@@ -87,7 +87,7 @@ global.codex = `Jesus-ofc`;
 global.igfg = "ɴɪɢʜᴛᴄᴏʀᴇ〔ʙᴏᴛ〕";
 global.wait = "*[❕] CARGANDO POR FAVOR ESPERA...*";
 //-------------------
-global.md = "https://chat.whatsapp.com/B4wRsrXs1MsKLqtLctdTkf";
+global.md = "https://chat.whatsapp.com/FZ5NqcnUDsN6ZA8kBFnewH";
 global.dorramd = md;
 global.tarje = "Banesco";
 global.yt = "http://youtube.com/@emersonventas";
